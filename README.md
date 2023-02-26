@@ -11,6 +11,7 @@ sudo apt-get install p7zip-full
 To compress a file or folder
 ```
 7z a [output file name] [input file or folder name]
+7z a archive.7z file1
 ```
 
 To extract an archive file to a specific directory:
